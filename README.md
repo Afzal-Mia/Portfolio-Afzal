@@ -1,7 +1,7 @@
 # Portfolio Frontend
 
-![Portfolio Preview](public/pre.png)
-![Portfolio Preview](public/pre_2.png)
+![Home]([public/pre.png](https://res.cloudinary.com/diufr72e9/image/upload/v1737134305/Screenshot_21_tqkggf.png))
+![Send me Your Query]([public/pre_2.png](https://res.cloudinary.com/diufr72e9/image/upload/v1737134303/Screenshot_22_cdmvxs.png))
 
 ## Description
 This is the frontend of my personal portfolio website. It showcases my skills, projects, and provides a way for viewers to send me queries directly using a backend powered by **Nodemailer**.
