@@ -24,7 +24,7 @@ const Footer = () => {
     setLoading(true); // Start spinner
 
     try {
-      await axios.post("http://localhost:9000/send-email", formData);
+      await axios.post("https://portfolio-server-nrm2.onrender.com/send-email", formData);
       toast.success("Query sent successfully!");
       setFormData({ name: "", email: "", message: "" });
     } catch (error) {
