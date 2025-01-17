@@ -1,4 +1,4 @@
-# Portfolio Frontend
+# Portfolio :Afzal-Mia
 
 ![Home](https://res.cloudinary.com/diufr72e9/image/upload/v1737134305/Screenshot_21_tqkggf.png)
 ## Query Part
