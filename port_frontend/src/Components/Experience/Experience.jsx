@@ -54,32 +54,28 @@ const Experience = () => {
             <SiPostgresql color="#336791" size={50} />
           </span>
         </div>
-        <div className="flex justify-center items-center">
+        {/* <div className="flex justify-center items-center">
           <div className="relative w-64 h-64">
-            {/* Pulsing Skeleton Circles with Different Colors */}
             <div className="absolute top-1/4 left-1/4 w-12 h-12 rounded-full bg-gray-500 animate-pulse"></div>
             <div className="absolute top-1/4 right-1/4 w-12 h-12 rounded-full bg-blue-500 animate-pulse"></div>
             <div className="absolute bottom-1/4 left-1/4 w-12 h-12 rounded-full bg-red-500 animate-pulse"></div>
             <div className="absolute bottom-1/4 right-1/4 w-12 h-12 rounded-full bg-yellow-500 animate-pulse"></div>
 
-            {/* Additional Circles for Complexity */}
             <div className="absolute top-1/4 left-1/2 w-8 h-8 rounded-full bg-teal-500 animate-pulse"></div>
             <div className="absolute top-1/2 left-1/4 w-8 h-8 rounded-full bg-purple-500 animate-pulse"></div>
             <div className="absolute bottom-1/2 left-1/4 w-8 h-8 rounded-full bg-pink-500 animate-pulse"></div>
             <div className="absolute bottom-1/4 left-1/2 w-8 h-8 rounded-full bg-green-500 animate-pulse"></div>
 
-            {/* Additional Circles */}
             <div className="absolute top-1/8 left-1/8 w-10 h-10 rounded-full bg-orange-500 animate-pulse"></div>
             <div className="absolute top-1/8 right-1/8 w-10 h-10 rounded-full bg-indigo-500 animate-pulse"></div>
             <div className="absolute bottom-1/8 left-1/8 w-10 h-10 rounded-full bg-cyan-500 animate-pulse"></div>
             <div className="absolute bottom-1/8 right-1/8 w-10 h-10 rounded-full bg-lime-500 animate-pulse"></div>
 
-            {/* Central Skeleton Circle with a Different Color and Text */}
             <div className="absolute top-1/2 left-1/2 w-24 h-24 rounded-full bg-gray-400 animate-pulse transform -translate-x-1/2 -translate-y-1/2 flex justify-center items-center text-black text-lg font-serif">
               Fresher
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
